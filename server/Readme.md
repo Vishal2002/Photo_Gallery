@@ -1,6 +1,5 @@
 # Photo Gallery
 
-This is a brief description of your project.
 
 ## How to Start the Server
 
